@@ -1,0 +1,1 @@
+CREATE INDEX `feed_event_action_cursor` ON `feed` (`event_id`,`action`,`seq`);
